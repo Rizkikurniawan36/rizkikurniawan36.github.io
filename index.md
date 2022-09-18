@@ -3,7 +3,7 @@
 
 ---
 
-### Category Name 1 
+### Uji Coba Projek 1 
 
 [Uji Coba ProjeK 1](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
